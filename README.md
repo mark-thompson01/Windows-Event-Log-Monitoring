@@ -32,4 +32,12 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 ![List events for file modifications.PNG](Images/List%20events%20for%20file%20modifications.PNG)
 
+#### Monitor for Remote Thread Creation
+
+![Monitor for Remote Thread Creation.PNG](Images/Monitor%20for%20Remote%20Thread%20Creation.PNG)
+
+#### Monitor for Changes to the Registry
+
+![Monitor for changes to the registry.PNG](Images/Monitor%20for%20changes%20to%20the%20registry.PNG)
+
 
