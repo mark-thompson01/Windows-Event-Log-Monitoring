@@ -60,3 +60,7 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 ![RunningFailedLoginScript.PNG](Images/RunningFailedLoginScript.PNG)
 
+#### Monitor Process Creation
+
+
+
