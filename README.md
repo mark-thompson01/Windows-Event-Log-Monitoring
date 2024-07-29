@@ -54,13 +54,17 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 ### Monitoring with PowerShell Scripts
 
-#### Monitor Failed Logins
+#### Monitor Failed Logins Attempts
 
 ![FailedLoginMonitoringPSScript.PNG](Images/FailedLoginMonitoringPSScript.PNG)
 
 ![RunningFailedLoginScript.PNG](Images/RunningFailedLoginScript.PNG)
 
-#### Monitor Process Creation
+#### Monitor Successful Logins
+
+![SuccessfulLogins.PNG](Images/SuccessfulLogins.PNG)
+
+![RunningSuccesssfulLoginScript.PNG](Images/RunningSuccesssfulLoginScript.PNG)
 
 
 
