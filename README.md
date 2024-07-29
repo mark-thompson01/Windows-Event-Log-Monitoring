@@ -1,3 +1,4 @@
 # Windows-Event-Log-Monitoring
 
-Monitor and analyze Windows Event Logs for security incidents using Windows Event Viewer, Sysmon, and PowerShell. 
+This lab outlines some basics on using Windows Event Viewer, Sysmon, and PowerShell to monitor and analyze Windows Event Logs for security incidents. 
+
