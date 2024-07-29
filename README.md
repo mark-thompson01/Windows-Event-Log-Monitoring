@@ -40,4 +40,12 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 ![Monitor for changes to the registry.PNG](Images/Monitor%20for%20changes%20to%20the%20registry.PNG)
 
+#### List Failed Logon Attempts
+
+![Retrieve Failed Logon Attempts.PNG](Images/Retrieve%20Failed%20Logon%20Attempts.PNG)
+
+#### List Successful Login Events
+
+![Retrieve Successful Login Events.PNG](Images/Retrieve%20Successful%20Login%20Events.PNG)
+
 
