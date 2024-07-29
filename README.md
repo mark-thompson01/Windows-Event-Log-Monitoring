@@ -49,3 +49,6 @@ can be used to monitor and analyze activities on Windows systems configured with
 ![Retrieve Successful Login Events.PNG](Images/Retrieve%20Successful%20Login%20Events.PNG)
 
 
+### Monitoring with Windows Event Viewer
+
+
