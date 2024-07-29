@@ -14,6 +14,6 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 
 ### List All Sysmon Events
-![List All Sysmon Events.PNG](List%20All%20Sysmon%20Events.PNG)
+![List All Sysmon Events.PNG](Images/List%20All%20Sysmon%20Events.PNG)
 
 
