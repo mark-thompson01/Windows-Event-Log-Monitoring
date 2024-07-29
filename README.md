@@ -57,6 +57,10 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 ![EventViewer2.PNG](Images/EventViewer2.PNG)
 
+![EventViewer2.1.PNG](Images/EventViewer2.1.PNG)
+![EventViewer2.2.PNG](Images/EventViewer2.2.PNG)
+![EventViewer2.3.PNG](Images/EventViewer2.3.PNG)
+
 #### Monitor Successful Logins
 
 ![EventViewer3.PNG](Images/EventViewer3.PNG)
@@ -64,6 +68,10 @@ can be used to monitor and analyze activities on Windows systems configured with
 ![EventViewer4.PNG](Images/EventViewer4.PNG)
 
 ![EventViewer5.PNG](Images/EventViewer5.PNG)
+
+![EventViewer5.1.PNG](Images/EventViewer5.1.PNG)
+![EventViewer5.2.PNG](Images/EventViewer5.2.PNG)
+![EventViewer5.3.PNG](Images/EventViewer5.3.PNG)
 
 #### Look for Special Privileges Assigned to New Logon
 
