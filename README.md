@@ -64,7 +64,7 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 ![SuccessfulLogins.PNG](Images/SuccessfulLogins.PNG)
 
-![RunningSuccesssfulLoginScript.PNG](Images/RunningSuccesssfulLoginScript.PNG)
+![RunningSuccessfulLoginScript.PNG](Images/RunningSuccessfulLoginScript.PNG)
 
 
 
