@@ -13,3 +13,7 @@ Sysmon (System Monitor) is a Windows system service and device driver that logs 
 can be used to monitor and analyze activities on Windows systems configured with Sysmon. 
 
 
+### List All Sysmon Events
+![List All Sysmon Events.PNG](List%20All%20Sysmon%20Events.PNG)
+
+
