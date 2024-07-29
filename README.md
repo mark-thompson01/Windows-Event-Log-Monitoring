@@ -51,10 +51,32 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 ### Monitoring with Windows Event Viewer
 
+#### Monitor Failed Login Attempts
+
+![EventViewer1.PNG](Images/EventViewer1.PNG)
+
+![EventViewer2.PNG](Images/EventViewer2.PNG)
+
+#### Monitor Successful Logins
+
+![EventViewer3.PNG](Images/EventViewer3.PNG)
+
+![EventViewer4.PNG](Images/EventViewer4.PNG)
+
+![EventViewer5.PNG](Images/EventViewer5.PNG)
+
+#### Look for Special Privileges Assigned to New Logon
+
+![EventViewer6.PNG](Images/EventViewer6.PNG)
+
+![EventViewer7.PNG](Images/EventViewer7.PNG)
+
+![EventViewer8.PNG](Images/EventViewer8.PNG)
+
 
 ### Monitoring with PowerShell Scripts
 
-#### Monitor Failed Logins Attempts
+#### Monitor Failed Login Attempts
 
 ![FailedLoginMonitoringPSScript.PNG](Images/FailedLoginMonitoringPSScript.PNG)
 
