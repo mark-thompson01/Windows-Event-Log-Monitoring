@@ -5,7 +5,7 @@ This lab outlines the basics of using Sysmon, Windows Event Viewer, and PowerShe
 ## Tools
 - **Sysmon** for detailed logging of system activities.
 - **Windows Event Viewer** for visualizing and analyzing event logs.
-- **PowerShell** for querying and processing event logs.
+- **PowerShell scripts** for querying and processing event logs.
 
 ### Monitoring with Sysmon
 
