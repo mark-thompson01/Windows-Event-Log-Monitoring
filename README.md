@@ -16,4 +16,8 @@ can be used to monitor and analyze activities on Windows systems configured with
 #### List All Sysmon Events
 ![List All Sysmon Events.PNG](Images/List%20All%20Sysmon%20Events.PNG)
 
+#### List All Network Connection Events
+
+![List All Network Connection Events.PNG](Images/List%20All%20Network%20Connection%20Events.PNG)
+
 
