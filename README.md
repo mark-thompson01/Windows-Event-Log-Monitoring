@@ -18,6 +18,6 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 #### List All Network Connection Events
 
-![List All Network Connection Events.PNG](Images/List%20All%20Network%20Connection%20Events.PNG)
+![List all network connection events.PNG](Images/List%20all%20network%20connection%20events.PNG)
 
 
