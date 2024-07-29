@@ -52,3 +52,7 @@ can be used to monitor and analyze activities on Windows systems configured with
 ### Monitoring with Windows Event Viewer
 
 
+### Monitoring with PowerShell Scripts
+
+#### Monitor Failed Logins
+
