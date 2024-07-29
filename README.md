@@ -44,7 +44,7 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 ![Retrieve Failed Logon Attempts.PNG](Images/Retrieve%20Failed%20Logon%20Attempts.PNG)
 
-#### List Successful Login Events
+#### List Successful Logon Events
 
 ![Retrieve Successful Login Events.PNG](Images/Retrieve%20Successful%20Login%20Events.PNG)
 
