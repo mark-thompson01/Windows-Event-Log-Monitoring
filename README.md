@@ -20,4 +20,16 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 ![List all network connection events.PNG](Images/List%20all%20network%20connection%20events.PNG)
 
+#### List All Process Creation Events
+
+![List all process creation events.PNG](Images/List%20all%process%20creation%20events.PNG)
+
+#### List Events for New Files Created
+
+![List new files created.PNG](Images/List%20new%20files%20created.PNG)
+
+#### List Events for File Modifications
+
+![List events for file modifications.PNG](Images/List%20events%for%20file%20modifications.PNG)
+
 
