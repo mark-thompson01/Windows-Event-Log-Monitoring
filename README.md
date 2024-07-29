@@ -56,3 +56,7 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 #### Monitor Failed Logins
 
+![FailedLoginMonitoringPSScript.PNG](Images/FailedLoginMonitoringPSScript.PNG)
+
+![RunningFailedLoginScript.PNG](Images/RunningFailedLoginScript.PNG)
+
