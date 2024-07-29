@@ -22,7 +22,7 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 #### List All Process Creation Events
 
-![List all process creation events.PNG](Images/List%20all%process%20creation%20events.PNG)
+![List all process creation events.PNG](Images/List%20all%20process%20creation%20events.PNG)
 
 #### List Events for New Files Created
 
