@@ -10,6 +10,6 @@ This lab outlines some basics on using Sysmon, Windows Event Viewer, and PowerSh
 ### Monitoring with Sysmon
 
 Sysmon (System Monitor) is a Windows system service and device driver that logs system activity to the Windows Event Log. The following goes over some basic Sysmon queries in PowerShell with the Get-WinEvent commandlet that 
-can be used to monitor and analyze activities on a Windows 10 machine. 
+can be used to monitor and analyze activities on Windows systems configured with Sysmon. 
 
 
