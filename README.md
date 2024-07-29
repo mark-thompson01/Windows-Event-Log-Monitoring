@@ -66,5 +66,11 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 ![RunningSuccessfulLoginScript.PNG](Images/RunningSuccessfulLoginScript.PNG)
 
+#### Monitor New Process Creation Events
+
+![ProcessCreationEvents.PNG](Images/ProcessCreationEvents.PNG)
+
+![ProcessCreationEventsScriptRun.PNG](Images/ProcessCreationEventsScriptRun.PNG)
+
 
 
