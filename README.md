@@ -30,6 +30,6 @@ can be used to monitor and analyze activities on Windows systems configured with
 
 #### List Events for File Modifications
 
-![List events for file modifications.PNG](Images/List%20events%for%20file%20modifications.PNG)
+![List events for file modifications.PNG](Images/List%20events%20for%20file%20modifications.PNG)
 
 
