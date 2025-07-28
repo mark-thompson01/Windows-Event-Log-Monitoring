@@ -39,6 +39,15 @@ The lab environment consists of two interconnected VMs:
 - PowerShell
 
 
+  
+## What I've Learned
+Through this project, I have learned how to: 
+- Setup the Sysmon service and driver on Windows operating systems.
+- Perform basic Sysmon queries in PowerShell with the Get-WinEvent cmdlet.
+- Query logs with the use of Get-WinEvent and Event Viewer GUI.
+- Monitor with PowerShell scripts.
+
+
 
 ---
 
