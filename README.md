@@ -39,6 +39,13 @@ The lab environment consists of two interconnected VMs:
 - PowerShell
 
 
+---
+
+
+## 🔁 How to Recreate This Lab
+
+
+---
   
 ## What I've Learned
 Through this project, I have learned how to: 
