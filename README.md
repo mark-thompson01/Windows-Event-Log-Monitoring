@@ -23,6 +23,15 @@ can be used to monitor and analyze activities on Windows systems configured with
 ---
 
 
+## Lab Setup
+The lab environment consists of two interconnected VMs:
+
+> **Windows 10 Desktop:** Lab client Windows 10 machine setup with sysmon running and customized PowerShell scripts.
+
+
+---
+
+
 ## 🛠️ Tech Used
 - Windows 10 Desktop
 - Sysmon
