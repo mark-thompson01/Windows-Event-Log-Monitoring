@@ -23,11 +23,11 @@ can be used to monitor and analyze activities on Windows systems configured with
 ---
 
 
-
-
-
-
-
+## 🛠️ Tech Used
+- Windows 10 Desktop
+- Sysmon
+- Windows Event Viewer
+- PowerShell
 
 
 
