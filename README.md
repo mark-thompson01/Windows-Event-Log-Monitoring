@@ -43,7 +43,11 @@ The lab environment consists of two interconnected VMs:
 
 
 ## 🔁 How to Recreate This Lab
-
+- Download and Install Sysmon on a Windows 10 Desktop.
+- Retrieve log content from the Sysmon service and driver via Get-WinEvent.
+- Practice reviewing logs via Get-WinEvent / Windows Event Viewer.
+- Create PowerShell scripts
+- Practice monitoring with PowerShell scripts
 
 ---
   
